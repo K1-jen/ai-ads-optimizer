@@ -1,7 +1,7 @@
 # AI Ads Optimizer
 ## 🌐 Live Demo
 
-[Launch AI Ads Optimizer]((https://ai-ads-optimizer.streamlit.app/))
+[Launch AI Ads Optimizer](https://ai-ads-optimizer.streamlit.app/))
 
 ## 💼 What It Does
 Uploads campaign data, calculates wasted spend, and provides optimization recommendations.
