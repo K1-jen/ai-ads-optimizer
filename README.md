@@ -2,7 +2,7 @@
 
 ## 🌐 Live Demo
 
-[Launch AI Ads Optimizer](https://ai-ads-optimizer.streamlit.app/))
+[Launch AI Ads Optimizer](https://ai-ads-optimizer.streamlit.app/)
 
 ---
 
