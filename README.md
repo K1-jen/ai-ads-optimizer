@@ -1,58 +1,81 @@
-# AI Ads Optimizer
+# 📢 AI Ads Optimizer
+
 ## 🌐 Live Demo
 
-[Launch AI Ads Optimizer](https://ai-ads-optimizer.streamlit.app/)
+[Launch AI Ads Optimizer](https://ai-ads-optimizer.streamlit.app/))
 
-## 💼 What It Does
-Uploads campaign data, calculates wasted spend, and provides optimization recommendations.
+---
 
-## Overview
-An AI-powered optimization tool that identifies wasted advertising spend and recommends budget restructuring to improve campaign performance, targeting efficiency, and return on investment.
+## 💼 Overview
 
-## Business Problem
-Many organizations overspend on underperforming campaigns due to fragmented reporting, delayed insights, and manual analysis. This leads to poor ROI and inefficient allocation of marketing budgets.
+AI Ads Optimizer is a business-focused analytics tool that helps marketing teams identify wasted advertising spend, evaluate campaign efficiency, and optimize budget allocation using campaign performance data.
 
-## Solution
-AI Ads Optimizer analyzes campaign performance data across channels and surfaces actionable recommendations to improve spend efficiency.
+---
 
-## Core Capabilities
-- Detect underperforming campaigns and audiences
-- Identify high-cost / low-conversion spend areas
-- Recommend budget reallocation strategies
-- Suggest audience targeting refinements
-- Generate optimized ad copy ideas
-- Highlight trends by geography, channel, and segment
+## 🚀 Key Features
 
-## Example Use Cases
-- Reduce wasted Meta ad spend
-- Improve Google Ads conversion efficiency
-- Optimize B2B lead generation campaigns
-- Rebalance budgets during seasonal promotions
+- 📂 Upload campaign CSV files
+- 📊 Analyze spend, conversions, and cost per acquisition (CPA)
+- 💰 View total ad spend
+- 🎯 Track total conversions
+- 📉 Identify highest-cost campaigns
+- 🤖 Receive optimization recommendations
 
-## Tech Stack
+---
+
+## 🧰 Tech Stack
+
 - Python
-- Pandas
 - Streamlit
-- OpenAI / Azure OpenAI
-- CSV Marketing Data
+- Pandas
 - GitHub
+- Cloud Deployment
 
-## Sample Workflow
-1. Upload campaign CSV data  
-2. AI evaluates CTR, CPC, CPA, ROAS, and conversion trends  
-3. Tool identifies inefficiencies  
-4. Recommendations generated for budget shifts and campaign improvements
+---
 
-## Expected Business Impact
-- Lower customer acquisition cost
-- Higher return on ad spend
-- Faster decision-making
-- Reduced manual reporting time
-- Improved campaign scalability
+## 📸 Screenshots
 
-## Future Enhancements
+### 🏠 Homepage
+
+![Homepage](screenshots/homepage.png)
+
+---
+
+### 📊 Campaign Dashboard Results
+
+![Results Dashboard](screenshots/results-dashboard.png)
+
+---
+
+### 🗂️ GitHub Repo Structure
+
+![Repo Structure](screenshots/repo-structure.png)
+
+---
+
+## 📈 Business Impact
+
+Organizations often lose budget on underperforming campaigns due to delayed reporting and fragmented analysis.
+
+This tool helps teams:
+
+- Reduce wasted ad spend
+- Improve ROI
+- Make faster budget decisions
+- Identify optimization opportunities
+
+---
+
+## 🧠 Future Enhancements
+
 - Live Meta Ads API integration
+- Google Ads integration
 - Predictive budget forecasting
-- Automated weekly optimization reports
-- Power BI dashboard integration
-- Multi-channel attribution modeling
+- AI-generated ad copy suggestions
+- Executive reporting dashboards
+
+---
+
+## 👩🏽‍💻 Author
+
+Built by Kierra Jenkins as part of an AI + Business Engineering portfolio focused on solving real-world business problems with intelligent technology.
