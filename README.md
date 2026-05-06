@@ -1,12 +1,16 @@
+![Python](https://img.shields.io/badge/Python-Analytics-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-Live_App-red)
+![AI](https://img.shields.io/badge/AI-Powered-success)
+
 # 🚀 AI Ads Optimizer
 
-AI-powered marketing analytics platform that analyzes ad campaign performance, identifies optimization opportunities, and generates strategic recommendations to improve ROI and advertising efficiency.
+AI-powered marketing analytics platform designed to analyze campaign performance, identify optimization opportunities, and generate strategic recommendations to improve advertising ROI.
 
 ## 🌐 Live Demo
-[Launch App](https://ai-ads-optimizer.streamlit.app/)
+https://ai-ads-optimizer.streamlit.app/
 
 ## 📂 GitHub Repository
-[View Repository](https://github.com/K1-jen/ai-ads-optimizer)
+https://github.com/K1-jen/ai-ads-optimizer
 
 ## 🎯 Business Problem
 
@@ -27,6 +31,18 @@ This platform automates campaign analysis and delivers AI-generated optimization
 - 🧠 Predictive analytics
 - 📉 Budget allocation recommendations
 - ⚡ Streamlit interactive dashboard
+
+## 🏠Architecture
+
+Ad Campaign Data
+        ↓
+Data Cleaning & Processing
+        ↓
+Analytics Engine
+        ↓
+AI Recommendation Layer
+        ↓
+Dashboard Insights
 
 ## 📸 Dashboard Preview
 
