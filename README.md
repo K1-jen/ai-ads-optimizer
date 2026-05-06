@@ -32,7 +32,7 @@ This platform automates campaign analysis and delivers AI-generated optimization
 
 ![Dashboard](https://github.com/K1-jen/ai-ads-optimizer/blob/main/Screenshot%202026-05-06%20at%205.47.11%20PM.png)
 
-![AI Insights](<img width="1607" height="772" alt="Screenshot 2026-05-06 at 5 47 33 PM" src="https://github.com/user-attachments/assets/4143aa4e-bd91-4632-a406-6eee4e404b93" />)
+![AI Insights](https://github.com/K1-jen/ai-ads-optimizer/blob/main/Screenshot%202026-05-06%20at%205.54.24%20PM.png)
  
 ## 🛠️ Tech Stack
 
