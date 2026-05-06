@@ -32,17 +32,15 @@ This platform automates campaign analysis and delivers AI-generated optimization
 - 📉 Budget allocation recommendations
 - ⚡ Streamlit interactive dashboard
 
-## 🏠Architecture
+## 🏗️ System Architecture
 
-Ad Campaign Data
-        ↓
-Data Cleaning & Processing
-        ↓
-Analytics Engine
-        ↓
-AI Recommendation Layer
-        ↓
-Dashboard Insights
+```mermaid
+flowchart TD
+    A[Marketing Campaign Data] --> B[Data Cleaning & Processing]
+    B --> C[Analytics Engine]
+    C --> D[AI Recommendation Layer]
+    D --> E[Dashboard Insights]
+```
 
 ## 📸 Dashboard Preview
 
